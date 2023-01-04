@@ -1,0 +1,22 @@
+﻿we have a vending machine. it can take money give change give products. it has displayable products. user can select a an item from it.
+Firstly User adds money to machine and then when the user selects an item if it has enough money it drops the ıtem and gives change 
+otherwise it gives the money back to the user 
+
+vending machine 
+money
+products
+
+
+vending machine can take money and act accordingly
+vending machine can store the money
+vending machine can store products 
+
+there are products which has price and name
+
+there is a text based user interface which can use vending machine
+the UI can display the products, give answers, can give information about the money that is entered and change 
+
+
+
+
+
